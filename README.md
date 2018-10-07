@@ -1,5 +1,5 @@
 # react-native-redux-crypto-tracker
-Awesome native mobile app built with react-native, redux, expo, and coin-market-cap public api, links to some resources below:
+Awesome native mobile app built with react-native, redux, expo, and coin-market-cap public api. Resource links:
 https://expo.io
 https://coinmarketcap.com
 
