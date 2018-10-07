@@ -3,5 +3,6 @@ Native mobile app built with react-native, redux, expo (https://expo.io), and co
 
 ![alt tag](https://github.com/karina001/react-native-redux-crypto-tracker/blob/master/assets/fetching-api-data.png)
 ![alt tag](https://github.com/karina001/react-native-redux-crypto-tracker/blob/master/assets/xcodeiOSSimulator.png)
+![alt tag](https://github.com/karina001/react-native-redux-crypto-tracker/blob/master/assets/mvp.jpg)
 
 
