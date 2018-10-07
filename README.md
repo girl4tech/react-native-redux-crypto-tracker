@@ -5,7 +5,7 @@ https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-
 https://expo.io
 https://coinmarketcap.com
 
-![alt tag](https://github.com/karina001/react-native-redux-crypto-tracker/blob/master/assets/xcodeiOSSimulator.png)
+![alt tag](https://github.com/karina001/react-native-redux-crypto-tracker/blob/master/assets/fetching-api-data.png)
 ![alt tag](https://github.com/karina001/react-native-redux-crypto-tracker/blob/master/assets/xcodeiOSSimulator.png)
 
 
