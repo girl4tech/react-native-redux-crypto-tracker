@@ -5,4 +5,5 @@ Native mobile app built with react-native, redux, expo (https://expo.io), and co
 ![alt tag](https://github.com/karina001/react-native-redux-crypto-tracker/blob/master/assets/xcodeiOSSimulator.png)
 ![alt tag](https://github.com/karina001/react-native-redux-crypto-tracker/blob/master/assets/mvp.jpg)
 
+This app followed @wesharehoodies 4 chapter tutorial! Find first chapter here: [https://medium.com/react-native-training/tutorial-react-native-redux-native-mobile-app-for-tracking-cryptocurrency-bitcoin-litecoin-810850cf8acc]
 
